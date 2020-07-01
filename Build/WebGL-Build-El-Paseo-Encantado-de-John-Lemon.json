@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "El Paseo Encantado de John Lemon",
+"productVersion": "0.1",
+"dataUrl": "WebGL-Build-El-Paseo-Encantado-de-John-Lemon.data.unityweb",
+"wasmCodeUrl": "WebGL-Build-El-Paseo-Encantado-de-John-Lemon.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGL-Build-El-Paseo-Encantado-de-John-Lemon.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
